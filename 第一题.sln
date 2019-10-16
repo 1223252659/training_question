@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "动态捕捉", "动态捕捉\动态捕捉.vcxproj", "{C5CCC39F-7D78-4481-AC2B-5BDADFF5DD5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5CCC39F-7D78-4481-AC2B-5BDADFF5DD5C}.Debug|x64.ActiveCfg = Debug|x64
+		{C5CCC39F-7D78-4481-AC2B-5BDADFF5DD5C}.Debug|x64.Build.0 = Debug|x64
+		{C5CCC39F-7D78-4481-AC2B-5BDADFF5DD5C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5CCC39F-7D78-4481-AC2B-5BDADFF5DD5C}.Debug|x86.Build.0 = Debug|Win32
+		{C5CCC39F-7D78-4481-AC2B-5BDADFF5DD5C}.Release|x64.ActiveCfg = Release|x64
+		{C5CCC39F-7D78-4481-AC2B-5BDADFF5DD5C}.Release|x64.Build.0 = Release|x64
+		{C5CCC39F-7D78-4481-AC2B-5BDADFF5DD5C}.Release|x86.ActiveCfg = Release|Win32
+		{C5CCC39F-7D78-4481-AC2B-5BDADFF5DD5C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3AF115A-FCE5-434F-BED9-8F7A4748C7E7}
+	EndGlobalSection
+EndGlobal
